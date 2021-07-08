@@ -1,2 +1,2 @@
 # TouchDesigner.player
-Media player designed in TouchDesigner and Python
+Media player designed in TouchDesigner
